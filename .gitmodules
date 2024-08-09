@@ -16,3 +16,6 @@
 [submodule "lib/EventFlow"]
 	path = lib/EventFlow
 	url = https://github.com/open-ead/EventFlow.git
+[submodule "lib/zstd"]
+	path = lib/zstd
+	url = https://github.com/facebook/zstd.git
